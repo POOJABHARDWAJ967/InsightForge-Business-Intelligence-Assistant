@@ -1,3 +1,6 @@
+The Project has been attempted in two ways .One in Grok-Style and other using Ollam model with Streamlit deployment.
+
+
 # Grok-Style BI Sales Chatbot
 
 This repository is a small Streamlit app that parses a PDF with sales data and provides a conversational "Grok"-style assistant about the data.
